@@ -1,4 +1,5 @@
 require 'socket'
+require 'json'
 
 hostname = 'localhost'
 port = 2000
